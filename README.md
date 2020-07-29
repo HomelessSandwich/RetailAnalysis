@@ -18,11 +18,6 @@ cd RetailAnalysis
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/).
-
-```bash
-pip install --user -r requirements.txt
-```
-
 It is recommended that you upgrade all relevant packages to their latest version for all visualisations to work.
 
 ```bash
