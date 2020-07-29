@@ -7,7 +7,7 @@ The analysis is based off the dataset [here](http://archive.ics.uci.edu/ml/datas
 
 Make sure you are running Python 3.6 and above.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
 pip install --user -r requirements.txt
