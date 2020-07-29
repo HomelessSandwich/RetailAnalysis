@@ -7,13 +7,9 @@ The analysis is based off the dataset [here](http://archive.ics.uci.edu/ml/datas
 
 Make sure you are running Python 3.6 and above.
 
-Clone the repository with the following command: 
+Clone the repository with the following command and cd into the directory: 
 ```bash
 git clone https://github.com/HomelessSandwich/RetailAnalysis.git
-```
-
-Then cd into the directory:
-```bash
 cd RetailAnalysis
 ```
 
@@ -26,8 +22,8 @@ pip install --user --upgrade -r requirements.txt
 
 ## Usage
 
-In order to run the Jupyter Notebook file, please run the following command and open `Online Retail EDA & Modelling.ipynb`. Jupyter Lab will be installed during the installation stage.
-
+In order to run the Jupyter Notebook file, please run the following command and open `Online Retail EDA & Modelling.ipynb`. To install Jupyter Lab:
 ```bash
+pip install jupyterlab
 jupyter lab
 ```
