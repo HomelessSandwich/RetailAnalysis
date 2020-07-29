@@ -18,12 +18,12 @@ It is recommended that you upgrade all relevant packages to their latest version
 
 ```bash
 pip install --user --upgrade -r requirements.txt
+pip install jupyterlab
 ```
 
 ## Usage
 
 In order to run the Jupyter Notebook file, please run the following command and open `Online Retail EDA & Modelling.ipynb`. To install Jupyter Lab:
 ```bash
-pip install jupyterlab
 jupyter lab
 ```
