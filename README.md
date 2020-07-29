@@ -23,7 +23,7 @@ pip install jupyterlab
 
 ## Usage
 
-In order to run the Jupyter Notebook file, please run the following command and open `Online Retail EDA & Modelling.ipynb`. To install Jupyter Lab:
+In order to run the Jupyter Notebook file, run the following command and open `Online Retail EDA & Modelling.ipynb`.
 ```bash
 jupyter lab
 ```
