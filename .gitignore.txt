@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
 
-Technical Assessment_Data Scientist.pdf
+Technical_Assessment_Data Scientist.pdf
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
