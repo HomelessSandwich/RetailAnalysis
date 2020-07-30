@@ -27,3 +27,12 @@ In order to run the Jupyter Notebook file, run the following command and open `O
 ```bash
 jupyter lab
 ```
+
+If this command try one of the following:
+```bash
+jupyter-lab
+```
+
+```bash
+jupyter notebook
+```
