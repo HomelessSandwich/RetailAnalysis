@@ -28,7 +28,7 @@ In order to run the Jupyter Notebook file, run the following command and open `O
 jupyter lab
 ```
 
-If this command try one of the following:
+If the above command does not work, try one of the following:
 ```bash
 jupyter-lab
 ```
